@@ -27,7 +27,9 @@ Sou um desenvolvedor focado em **Shell Script** e automação de sistemas. Adoro
 
 ### 📊 Estatísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcondesource&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcondesource&layout=compact&theme=dark&hide_border=true&langs_count=5)
+
+![Status do GitHub](https://github-readme-stats.vercel.app/api?username=Marcondesource&show_icons=true&theme=dark&hide_border=true)
 
 ---
 
