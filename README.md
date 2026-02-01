@@ -28,11 +28,15 @@ Sou um desenvolvedor focado em **Shell Script** e automação de sistemas. Adoro
 ### 📊 Estatísticas
 
 <div align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Marcondesource&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Marcondesource&layout=compact&theme=dark&hide_border=true&hide=css,python,javascript" />
 </div>
 
 <div align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Marcondesource&show_icons=true&theme=dark&hide_border=true" />
+</div>
+
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcondesource&theme=dark&hide_border=true" />
 </div>
 
 ---
